@@ -1,9 +1,3 @@
-Of course. The current README.md in that repository is the default template from Vite, which isn't very helpful for explaining your project.
-
-A good README should quickly tell visitors what your project does, who it's for, and how to use it. Based on your repository's name, I've created a much more descriptive and professional version for you.
-
-You can directly replace the content of your current README.md file with the text below.
-
 Stock Tracker App 📈
 A clean and simple web application for tracking real-time stock prices and monitoring your favorite companies. This app is built with modern web technologies, providing a fast and responsive user experience.
 
