@@ -50,6 +50,3 @@ Bash
 npm run dev
 Open your browser and visit the local host link provided in your terminal (usually http://localhost:5173) to view the app!
 
-What changed and why:
-Proper Code Blocks: Wrapping terminal commands in bash ...  makes them distinct and easier to copy.
-
