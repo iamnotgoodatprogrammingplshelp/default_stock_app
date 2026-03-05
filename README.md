@@ -53,6 +53,3 @@ Open your browser and visit the local host link provided in your terminal (usual
 What changed and why:
 Proper Code Blocks: Wrapping terminal commands in bash ...  makes them distinct and easier to copy.
 
-The .env section: If someone else downloads your code, their app will crash if they don't know they need to plug in their own API key. Adding that note saves everyone a headache.
-
-Completed the "Running" step: Your draft cut off at the end, so I added the standard Vite command (npm run dev) to start the server.
