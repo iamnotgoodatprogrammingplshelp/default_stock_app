@@ -1,7 +1,7 @@
-📈 Stock Tracker App
+ Stock Tracker App
 A clean, responsive, and simple web application for tracking real-time stock prices and monitoring your favorite companies. Built with modern web technologies, this app provides a fast user experience for keeping an eye on the market.
 
-✨ Features
+Features
 Real-Time Price Data: View up-to-the-minute stock prices.
 
 Personal Watchlist: Easily add and remove stocks to monitor your portfolio.
@@ -12,14 +12,14 @@ Responsive Design: Works smoothly on both desktop and mobile browsers.
 
 (Coming Soon) Interactive Charts: Visualize historical stock performance over time.
 
-🛠️ Tech Stack
+Tech Stack
 Frontend: React (powered by Vite for fast builds)
 
 Styling: Tailwind CSS (or CSS Modules)
 
 Data Source: Alpha Vantage API (or Financial Modeling Prep)
 
-🚀 Getting Started
+ Getting Started
 Follow these instructions to get a local copy up and running on your machine.
 
 Prerequisites
