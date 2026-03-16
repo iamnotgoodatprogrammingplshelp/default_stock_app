@@ -1,52 +1,162 @@
- Stock Tracker App
-A clean, responsive, and simple web application for tracking real-time stock prices and monitoring your favorite companies. Built with modern web technologies, this app provides a fast user experience for keeping an eye on the market.
+# Default Stock App
 
-Features
-Real-Time Price Data: View up-to-the-minute stock prices.
+A lightweight and customizable stock tracking web application built with modern web technologies.
+This project provides a fast interface for searching stocks, monitoring prices, and maintaining a personal watchlist.
 
-Personal Watchlist: Easily add and remove stocks to monitor your portfolio.
+The repository is intended as a **starting template** for developers who want to build their own financial dashboard or stock-monitoring tool.
 
-Quick Search: Find any stock instantly using its ticker symbol (e.g., AAPL, GOOGL).
+---
 
-Responsive Design: Works smoothly on both desktop and mobile browsers.
+# Features
 
-(Coming Soon) Interactive Charts: Visualize historical stock performance over time.
+* **Real-Time Stock Prices**
+  Fetch and display up-to-date stock market data.
 
-Tech Stack
-Frontend: React (powered by Vite for fast builds)
+* **Stock Search**
+  Search for companies using ticker symbols (e.g. `AAPL`, `TSLA`, `GOOGL`).
 
-Styling: Tailwind CSS (or CSS Modules)
+* **Personal Watchlist**
+  Add and remove stocks you want to monitor.
 
-Data Source: Alpha Vantage API (or Financial Modeling Prep)
+* **Responsive Interface**
+  Optimized for both desktop and mobile devices.
 
- Getting Started
-Follow these instructions to get a local copy up and running on your machine.
+* **Customizable Template**
+  Designed to be easily modified for your own financial or trading application.
 
-Prerequisites
-You must have Node.js (version 16 or later) and npm installed.
+* **Planned Features**
 
-You can download Node.js here.
+  * Interactive stock charts
+  * Historical price visualization
+  * Portfolio performance tracking
 
-Installation
-1. Clone the repository:
+---
 
-Bash
+# Tech Stack
+
+**Frontend**
+
+* React
+* Vite
+* Tailwind CSS
+
+**Backend**
+
+* Python (simple API proxy server)
+
+**Data Sources**
+
+* Alpha Vantage API
+  or
+* Financial Modeling Prep API
+
+---
+
+# Project Structure
+
+```
+default_stock_app/
+│
+├── src/                # React application source code
+├── public/             # Static assets
+├── dist/               # Production build output
+├── server.py           # Python backend server
+│
+├── index.html          # Application entry point
+├── package.json        # Project dependencies
+├── tailwind.config.js  # Tailwind configuration
+├── vite.config.js      # Vite configuration
+└── README.md
+```
+
+---
+
+# Installation
+
+Clone the repository:
+
+```
 git clone https://github.com/iamnotgoodatprogrammingplshelp/default_stock_app.git
-2. Navigate to the project directory:
+```
 
-Bash
+Navigate into the project directory:
+
+```
 cd default_stock_app
-3. Install dependencies:
+```
 
-Bash
+Install dependencies:
+
+```
 npm install
-Note on API Keys: > To get real-time data, you will need a free API key from your chosen data provider. Create a .env file in the root of your project and add your key like this:
+```
+
+---
+
+# API Key Setup
+
+This project requires an API key from a stock data provider.
+
+Create a `.env` file in the root directory:
+
+```
 VITE_STOCK_API_KEY=your_api_key_here
+```
 
-Running the Application
-4. Start the development server:
+You can obtain a free API key from:
 
-Bash
+* https://www.alphavantage.co
+* https://financialmodelingprep.com
+
+---
+
+# Running the Application
+
+Start the development server:
+
+```
 npm run dev
-Open your browser and visit the local host link provided in your terminal (usually http://localhost:5173) to view the app!
+```
 
+Open your browser and navigate to:
+
+```
+http://localhost:5173
+```
+
+---
+
+# Build for Production
+
+```
+npm run build
+```
+
+The optimized build will be generated in the `dist` folder.
+
+---
+
+# Customization
+
+This repository is designed as a **template project**.
+
+Possible extensions include:
+
+* portfolio management
+* algorithmic trading dashboards
+* AI-powered financial analysis
+* stock alert systems
+* integration with brokerage APIs
+
+---
+
+# Contributing
+
+Contributions are welcome.
+
+If you want to improve the project:
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Submit a pull request
