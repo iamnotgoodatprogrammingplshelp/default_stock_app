@@ -10,7 +10,7 @@ The repository is intended as a **starting template** for developers who want to
 # Features
 
 * **Real-Time Stock Prices**
-  Fetch and display up-to-date stock market data.
+  Fetch and display up-to-date stock market data
 
 * **Stock Search**
   Search for companies using ticker symbols (e.g. `AAPL`, `TSLA`, `GOOGL`).
