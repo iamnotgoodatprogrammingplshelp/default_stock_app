@@ -1,9 +1,9 @@
 # Default Stock App
 
-A lightweight and customizable stock tracking web application built with modern web technologies.
-This project provides a fast interface for searching stocks, monitoring prices, and maintaining a personal watchlist.
+A lightweight and customizable stock tracking web application built with modern web technologies
+This project provides a fast interface for searching stocks, monitoring prices, and maintaining a personal watchlist
 
-The repository is intended as a **starting template** for developers who want to build their own financial dashboard or stock-monitoring tool.
+The repository is intended as a **starting template** for developers who want to build their own financial dashboard or stock-monitoring tool
 
 ---
 
