@@ -30,7 +30,6 @@ The repository is intended as a **starting template** for developers who want to
   * Historical price visualization
   * Portfolio performance tracking
 
----
 
 # Tech Stack
 
