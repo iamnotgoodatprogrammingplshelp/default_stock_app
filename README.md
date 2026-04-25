@@ -13,7 +13,7 @@ The repository is intended as a **starting template** for developers who want to
   Fetch and display up-to-date stock market data
 
 * **Stock Search**
-  Search for companies using ticker symbols (e.g. `AAPL`, `TSLA`, `GOOGL`).
+  Search for companies using ticker symbols (e.g. `AAPL`, `TSLA`, `GOOGL`)
 
 * **Personal Watchlist**
   Add and remove stocks you want to monitor.
