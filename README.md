@@ -16,7 +16,7 @@ The repository is intended as a **starting template** for developers who want to
   Search for companies using ticker symbols (e.g. `AAPL`, `TSLA`, `GOOGL`)
 
 * **Personal Watchlist**
-  Add and remove stocks you want to monitor.
+  Add and remove stocks you want to monitor
 
 * **Responsive Interface**
   Optimized for both desktop and mobile devices.
