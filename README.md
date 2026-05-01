@@ -19,7 +19,7 @@ The repository is intended as a **starting template** for developers who want to
   Add and remove stocks you want to monitor
 
 * **Responsive Interface**
-  Optimized for both desktop and mobile devices.
+  Optimized for both desktop and mobile devices
 
 * **Customizable Template**
   Designed to be easily modified for your own financial or trading application.
