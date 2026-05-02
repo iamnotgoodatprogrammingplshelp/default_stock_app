@@ -107,7 +107,6 @@ You can obtain a free API key from:
 * https://www.alphavantage.co
 * https://financialmodelingprep.com
 
----
 
 # Running the Application
 
