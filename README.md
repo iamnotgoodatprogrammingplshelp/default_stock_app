@@ -22,7 +22,7 @@ The repository is intended as a **starting template** for developers who want to
   Optimized for both desktop and mobile devices
 
 * **Customizable Template**
-  Designed to be easily modified for your own financial or trading application.
+  Designed to be easily modified for your own financial or trading application
 
 * **Planned Features**
 
