@@ -41,7 +41,7 @@ The repository is intended as a **starting template** for developers who want to
 
 **Backend**
 
-* Python (simple API proxy server)
+* Python (simple API proxy server
 
 **Data Sources**
 
